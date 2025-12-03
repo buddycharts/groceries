@@ -1,0 +1,155 @@
+{
+  "category_name": "Groceries",
+  "items": [
+    {
+      "id": 1,
+      "name": "Apsara Pencil",
+      "images": ["groceries/1.jpeg", "groceries/2.jpeg"],
+      "selling_price": 6,
+      "original_price": 8,
+      "quantity": "1 piece",
+      "ingredients": ["Wood", "Graphite Lead", "Clay Binder", "Protective Coating"],
+      "nutrition": { "calories": 0, "protein": 0, "fats": 0, "carbs": 0 }
+    },
+    {
+      "id": 2,
+      "name": "Blue Pen",
+      "images": ["groceries/3.jpeg", "groceries/4.jpeg"],
+      "selling_price": 6,
+      "original_price": 8,
+      "quantity": "1 piece",
+      "ingredients": ["Plastic Body", "Ink", "Metal Tip"],
+      "nutrition": { "calories": 0 }
+    },
+    {
+      "id": 3,
+      "name": "Cotton Earbuds",
+      "images": ["groceries/5.jpeg", "groceries/6.jpeg"],
+      "selling_price": 10,
+      "original_price": 15,
+      "quantity": "1 pack",
+      "ingredients": ["Cotton", "Plastic Stick"],
+      "nutrition": { "calories": 0 }
+    },
+    {
+      "id": 4,
+      "name": "Nippo Battery",
+      "images": ["groceries/7.jpeg", "groceries/8.jpeg"],
+      "selling_price": 20,
+      "original_price": 25,
+      "quantity": "2 pieces",
+      "ingredients": ["Metal Casing", "Electrolyte", "Carbon Rod"],
+      "nutrition": { "calories": 0 }
+    },
+    {
+      "id": 5,
+      "name": "Toothbrush",
+      "images": ["groceries/9.jpeg", "groceries/10.jpeg"],
+      "selling_price": 15,
+      "original_price": 20,
+      "quantity": "1 piece",
+      "ingredients": ["Plastic Handle", "Nylon Bristles"],
+      "nutrition": { "calories": 0 }
+    },
+    {
+      "id": 6,
+      "name": "Rubber Packet",
+      "images": ["groceries/11.jpeg", "groceries/12.jpeg"],
+      "selling_price": 20,
+      "original_price": 25,
+      "quantity": "1 pack",
+      "ingredients": ["Rubber"],
+      "nutrition": { "calories": 0 }
+    },
+    {
+      "id": 7,
+      "name": "Sleep Well",
+      "images": ["groceries/13.jpeg", "groceries/14.jpeg"],
+      "selling_price": 20,
+      "original_price": 25,
+      "quantity": "1 piece",
+      "ingredients": ["Plastic", "Fragrance Material"],
+      "nutrition": { "calories": 0 }
+    },
+    {
+      "id": 8,
+      "name": "Pampers Pant",
+      "images": ["groceries/15.jpeg", "groceries/16.jpeg"],
+      "selling_price": 20,
+      "original_price": 25,
+      "quantity": "1 piece",
+      "ingredients": ["Cotton", "Absorbent Polymer", "Elastic"],
+      "nutrition": { "calories": 0 }
+    },
+    {
+      "id": 9,
+      "name": "Navratna Hair Oil (Pack of 10)",
+      "images": ["groceries/17.jpeg", "groceries/18.jpeg"],
+      "selling_price": 9,
+      "original_price": 12,
+      "quantity": "10 sachets",
+      "ingredients": ["Herbal Oil Blend", "Amla", "Menthol"],
+      "nutrition": { "calories": 0 }
+    },
+    {
+      "id": 10,
+      "name": "Medical Mask (Pack of 2)",
+      "images": ["groceries/19.jpeg", "groceries/20.jpeg"],
+      "selling_price": 9,
+      "original_price": 12,
+      "quantity": "2 pieces",
+      "ingredients": ["Non-woven Fabric", "Elastic Ear Loops"],
+      "nutrition": { "calories": 0 }
+    },
+    {
+      "id": 11,
+      "name": "Meera Shampoo (Pack of 10)",
+      "images": ["groceries/21.jpeg", "groceries/22.jpeg"],
+      "selling_price": 20,
+      "original_price": 25,
+      "quantity": "10 sachets",
+      "ingredients": ["Shikakai", "Reetha", "Herbal Extracts"],
+      "nutrition": { "calories": 0 }
+    },
+    {
+      "id": 12,
+      "name": "Clinic Shampoo (Pack of 10)",
+      "images": ["groceries/23.jpeg", "groceries/24.jpeg"],
+      "selling_price": 10,
+      "original_price": 15,
+      "quantity": "10 sachets",
+      "ingredients": ["Cleansing Agents", "Fragrance"],
+      "nutrition": { "calories": 0 }
+    },
+    {
+      "id": 13,
+      "name": "White Cloth Mask",
+      "images": ["groceries/25.jpeg", "groceries/26.jpeg"],
+      "selling_price": 15,
+      "original_price": 20,
+      "quantity": "1 piece",
+      "ingredients": ["Cotton Cloth", "Elastic"],
+      "nutrition": { "calories": 0 }
+    },
+    {
+      "id": 14,
+      "name": "Guru Cricket Ball",
+      "images": ["groceries/27.jpeg", "groceries/28.jpeg"],
+      "selling_price": 80,
+      "original_price": 100,
+      "quantity": "1 piece",
+      "ingredients": ["Leather", "Cork Core", "Thread Stitching"],
+      "nutrition": { "calories": 0 }
+    },
+    {
+      "id": 15,
+      "name": "Shaving Razor",
+      "images": ["groceries/29.jpeg", "groceries/30.jpeg"],
+      "selling_price": 20,
+      "original_price": 25,
+      "quantity": "1 piece",
+      "ingredients": ["Plastic Handle", "Stainless Steel Blade"],
+      "nutrition": { "calories": 0 }
+    }
+  ]
+}
